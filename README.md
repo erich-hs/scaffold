@@ -1,7 +1,4 @@
-# scaffold
-This is a sample project scaffold for Python
-
-## About this repository
+# Sample project scaffold for Python
 Template repository for repeatable project setup that suport continuous integration and delivery
 
 ![image](https://user-images.githubusercontent.com/77303576/193753136-8cd5f66e-7b9b-455a-95f4-eb48508ff639.png)
@@ -58,11 +55,12 @@ You can now see your current python environment living under your project direct
 
 ### Configuring your Makefile and requirements.txt
 Switch Makefile structure to Tabs (from spaces):
+
 ![image](https://user-images.githubusercontent.com/77303576/193756433-f1907785-1bdc-4a6a-bfe3-797951806532.png)
+
 You can reffer to the [Makefile](https://github.com/erich-hs/scaffold/blob/main/Makefile) in this repository as a basic example.
 
-Define your basic requirements for initial package installations. You can refer to the [requirements.txt](https://github.com/erich-hs/scaffold/blob/main/requirements.txt)\
-in this repository as an example for packages listed under our Makefile.
+Define your basic requirements for initial package installations. You can refer to the [requirements.txt](https://github.com/erich-hs/scaffold/blob/main/requirements.txt) in this repository as an example for packages listed under our Makefile.
 
 ### Commit, push, and continue development
 Commit initial project structure and configure your global user information.
