@@ -76,3 +76,5 @@ And push it to GitHub
 ```
 $ git push
 ```
+## GitHub actions
+You can check the [sample workflow](https://github.com/erich-hs/scaffold/blob/main/.github/workflows/main.yml) that makes use of our Makefile to ensure build quality with GitHub actions.
