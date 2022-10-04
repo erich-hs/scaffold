@@ -14,6 +14,7 @@ Template repository for repeatable project setup that suport continuous integrat
 $ ssh-keygen -t rsa
 ```
 will put a public/private key pair on your current directory.
+
 ![image](https://user-images.githubusercontent.com/77303576/193754120-1003ec65-8fbe-49a4-a771-76f56b3b0a68.png)
 ```
 $ cat /home/ec2-user/.ssh/id_rsa.pub
