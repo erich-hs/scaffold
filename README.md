@@ -27,7 +27,6 @@ Under Github profile settings:
 * New SSH key
 * Paste key and name it to your current project/environment
 * Confirm password / authentication
-* 
 
 ### Project basic structure
 Clone your recently created repository.
