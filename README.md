@@ -1,3 +1,5 @@
+[![Python application test with Github Actions](https://github.com/erich-hs/scaffold/actions/workflows/main.yml/badge.svg)](https://github.com/erich-hs/scaffold/actions/workflows/main.yml)
+
 # Sample project scaffold for Python
 Template repository for repeatable project setup that suport continuous integration and delivery
 
